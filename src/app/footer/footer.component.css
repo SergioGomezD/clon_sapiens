@@ -1,0 +1,23 @@
+footer
+{
+  background: #fff;
+  padding: 15px;
+  color: #444;
+  border-top: 1px solid #d2d6de;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+
+
+a{
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.text1 {
+  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
