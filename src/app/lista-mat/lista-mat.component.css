@@ -1,0 +1,53 @@
+button:hover{
+    color: #ffffff;
+    background: #003444;
+    background-image: linear-gradient(to bottom right, #00923F, #14572A);
+    border-left-color: #f39c12;
+    border-radius: 0;
+}
+
+button[aria-expanded="true"]{
+
+  color: #ffffff;
+  background: #003444;
+  border-left-color: #f39c12;
+}
+
+button{
+  color: #ffffff;
+    background: #003444;
+    border-left-color: #f39c12;
+    border-radius: 0;
+}
+
+aside{
+  color: #ffffff;
+    background: #003444;
+    border-left-color: #f39c12;
+}
+.tit{
+  text-align: center;
+    color: white;
+    background: #1a2226;
+}
+
+.columna{
+  height: 5000vh;
+  background: #003444;
+}
+
+h5{
+
+  color: white;
+}
+
+.accordion-body{
+  color: #ffffff;
+    background: #003444;
+    border-left-color: #f39c12;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}

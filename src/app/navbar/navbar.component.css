@@ -19,7 +19,10 @@
 }
 
 .primer {
-  align-items: flex-end;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 #menu {
@@ -36,6 +39,7 @@
   list-style:none;
   margin:0;
   padding:0;
+  align-items: flex-end;
  }
 
  #menu ul a {
