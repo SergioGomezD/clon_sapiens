@@ -1,0 +1,27 @@
+.container{
+    width: 160vh;
+    height: 600vh;
+}
+
+.titulo{
+    background: #1FA087;
+    background-color: #1FA087;
+    color: white;
+}
+
+.titulo1{
+    background-color: #003444;
+    color: white;
+}
+
+.tabla {
+    border: 1px solid #1FA087;
+    
+    
+    
+}
+
+button{
+    background-color: #f39c12 !important;
+    margin: 1px;
+}
