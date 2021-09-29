@@ -1,6 +1,5 @@
 .container{
-    width: 160vh;
-    height: 600vh;
+    width: 100vh;
 }
 
 .titulo{
@@ -16,9 +15,9 @@
 
 .tabla {
     border: 1px solid #1FA087;
-    
-    
-    
+
+
+
 }
 
 button{

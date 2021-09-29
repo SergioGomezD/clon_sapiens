@@ -11,6 +11,13 @@
     color: #FFFFFF;
 }
 
+a{
+  margin:2px;
+}
+
+ul{
+  padding: 0;
+}
 .navbar-2 h5{
   font-family: helveticalight!important;
     text-align: center;
@@ -18,11 +25,23 @@
     margin-top: 7px;
 }
 
+.menu {
+  width: 100%;
+  float: left;
+}
+
+.menu ul li {
+  float: right;
+  list-style-type: none;
+  text-align: left;
+}
+
 .primer {
   margin-top: 0.67em;
   margin-bottom: 0.67em;
   margin-left: 0;
   margin-right: 0;
+  padding: 10px;
 }
 
 #menu {
@@ -56,6 +75,9 @@
   float:left;
   margin:0;
   padding:0;
+ }
+
+ #menu ul li .primer{
  }
 
  #menu ul li:hover {
